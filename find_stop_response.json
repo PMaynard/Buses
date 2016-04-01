@@ -1,0 +1,614 @@
+{
+    "parameters": [
+        {
+            "name": "usage",
+            "value": "origin"
+        },
+        {
+            "name": "serverID",
+            "value": "EFA01_"
+        },
+        {
+            "name": "requestID",
+            "value": "0"
+        },
+        {
+            "name": "sessionID",
+            "value": "0"
+        }
+    ],
+    "stopFinder": {
+        "input": {
+            "input": "titanic"
+        },
+        "message": [
+            {
+                "name": "code",
+                "value": "-8011"
+            },
+            {
+                "name": "error",
+                "value": ""
+            }
+        ],
+        "points": [
+            {
+                "anyType": "loc",
+                "best": "0",
+                "name": "Titanic Quarter",
+                "quality": "47",
+                "ref": {
+                    "coords": "735552.00000,124146.00000",
+                    "id": "-1",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "1",
+                "stateless": "suburbID:31400030:869:Titanic Quarter:735552:124146:ITMR",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "1",
+                "mainLoc": "Belfast",
+                "modes": "0",
+                "name": "Titanic Quarter, Titanic Quarter Train Station",
+                "object": "Titanic Quarter Train Station",
+                "quality": "996",
+                "ref": {
+                    "coords": "735269.00000,125363.00000",
+                    "id": "10000010",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10000010",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Queens Road",
+                "object": "Queens Road",
+                "quality": "46",
+                "ref": {
+                    "coords": "735732.00000,123912.00000",
+                    "id": "10012496",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10012496",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, West Bank Close",
+                "object": "West Bank Close",
+                "quality": "46",
+                "ref": {
+                    "coords": "735993.00000,122168.00000",
+                    "id": "10011925",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011925",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, SSE Arena",
+                "object": "SSE Arena",
+                "quality": "902",
+                "ref": {
+                    "coords": "734583.00000,125240.00000",
+                    "id": "10005769",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10005769",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Abercorn Basin",
+                "object": "Abercorn Basin",
+                "quality": "46",
+                "ref": {
+                    "coords": "735062.00000,124816.00000",
+                    "id": "10011899",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011899",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Airport Road West",
+                "object": "Airport Road West",
+                "quality": "46",
+                "ref": {
+                    "coords": "736581.00000,123588.00000",
+                    "id": "10011900",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011900",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Alexander Dock",
+                "object": "Alexander Dock",
+                "quality": "46",
+                "ref": {
+                    "coords": "735468.00000,124282.00000",
+                    "id": "10011901",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011901",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Belfast Met / Titanic Belfast",
+                "object": "Belfast Met / Titanic Belfast",
+                "quality": "711",
+                "ref": {
+                    "coords": "735038.00000,124937.00000",
+                    "id": "10011902",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011902",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Victoria Road",
+                "object": "Victoria Road",
+                "quality": "46",
+                "ref": {
+                    "coords": "735206.00000,124615.00000",
+                    "id": "10011924",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011924",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Thomas Johnston",
+                "object": "Thomas Johnston",
+                "quality": "46",
+                "ref": {
+                    "coords": "735854.00000,122303.00000",
+                    "id": "10011923",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011923",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Shorts",
+                "object": "Shorts",
+                "quality": "47",
+                "ref": {
+                    "coords": "736062.00000,124819.00000",
+                    "id": "10011921",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011921",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, BOC",
+                "object": "BOC",
+                "quality": "48",
+                "ref": {
+                    "coords": "736497.00000,124012.00000",
+                    "id": "10011903",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011903",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, CITI Building",
+                "object": "CITI Building",
+                "quality": "46",
+                "ref": {
+                    "coords": "734930.00000,125216.00000",
+                    "id": "10011904",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011904",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, DRD",
+                "object": "DRD",
+                "quality": "48",
+                "ref": {
+                    "coords": "735955.00000,124955.00000",
+                    "id": "10011905",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011905",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, East Twin Road",
+                "object": "East Twin Road",
+                "quality": "46",
+                "ref": {
+                    "coords": "735932.00000,123719.00000",
+                    "id": "10011906",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011906",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, EM News Distribution",
+                "object": "EM News Distribution",
+                "quality": "46",
+                "ref": {
+                    "coords": "736567.00000,123311.00000",
+                    "id": "10011907",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011907",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Fraser Street Bridge",
+                "object": "Fraser Street Bridge",
+                "quality": "46",
+                "ref": {
+                    "coords": "735268.00000,125193.00000",
+                    "id": "10011908",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011908",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Hamilton Road",
+                "object": "Hamilton Road",
+                "quality": "46",
+                "ref": {
+                    "coords": "735694.00000,125166.00000",
+                    "id": "10011909",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011909",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Norfolkline Irish Sea Ferries",
+                "object": "Norfolkline Irish Sea Ferries",
+                "quality": "46",
+                "ref": {
+                    "coords": "736036.00000,122149.00000",
+                    "id": "10011910",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011910",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Old Channel Road",
+                "object": "Old Channel Road",
+                "quality": "46",
+                "ref": {
+                    "coords": "734961.00000,125229.00000",
+                    "id": "10011912",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011912",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Premier Inn",
+                "object": "Premier Inn",
+                "quality": "46",
+                "ref": {
+                    "coords": "734821.00000,125161.00000",
+                    "id": "10011913",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011913",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, PRONI",
+                "object": "PRONI",
+                "quality": "47",
+                "ref": {
+                    "coords": "734941.00000,125017.00000",
+                    "id": "10011914",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011914",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Short Strand (Newtownards Road)",
+                "object": "Short Strand (Newtownards Road)",
+                "quality": "46",
+                "ref": {
+                    "coords": "735160.00000,125558.00000",
+                    "id": "10011920",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011920",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Pyeroy",
+                "object": "Pyeroy",
+                "quality": "47",
+                "ref": {
+                    "coords": "735927.00000,123776.00000",
+                    "id": "10011915",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011915",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, River Side",
+                "object": "River Side",
+                "quality": "47",
+                "ref": {
+                    "coords": "736234.00000,124602.00000",
+                    "id": "10011916",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011916",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Rivers Edge",
+                "object": "Rivers Edge",
+                "quality": "46",
+                "ref": {
+                    "coords": "736253.00000,124557.00000",
+                    "id": "10011917",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011917",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Science Park",
+                "object": "Science Park",
+                "quality": "46",
+                "ref": {
+                    "coords": "735637.00000,124057.00000",
+                    "id": "10011918",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011918",
+                "type": "any",
+                "usage": "sf"
+            },
+            {
+                "anyType": "stop",
+                "best": "0",
+                "mainLoc": "Belfast",
+                "modes": "5",
+                "name": "Titanic Quarter, Short Strand",
+                "object": "Short Strand",
+                "quality": "46",
+                "ref": {
+                    "coords": "735092.00000,125565.00000",
+                    "id": "10011919",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011919",
+                "type": "any",
+                "usage": "sf"
+            }
+        ]
+    }
+}

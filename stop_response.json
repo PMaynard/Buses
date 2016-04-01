@@ -1,0 +1,781 @@
+{
+    "arr": {
+        "input": {
+            "input": ""
+        },
+        "points": null
+    },
+    "dateRange": [
+        {
+            "day": "01",
+            "month": "04",
+            "weekday": "6",
+            "year": "2016"
+        },
+        {
+            "day": "02",
+            "month": "04",
+            "weekday": "7",
+            "year": "2016"
+        },
+        {
+            "day": "03",
+            "month": "04",
+            "weekday": "1",
+            "year": "2016"
+        },
+        {
+            "day": "04",
+            "month": "04",
+            "weekday": "2",
+            "year": "2016"
+        },
+        {
+            "day": "05",
+            "month": "04",
+            "weekday": "3",
+            "year": "2016"
+        },
+        {
+            "day": "06",
+            "month": "04",
+            "weekday": "4",
+            "year": "2016"
+        },
+        {
+            "day": "07",
+            "month": "04",
+            "weekday": "5",
+            "year": "2016"
+        },
+        {
+            "day": "08",
+            "month": "04",
+            "weekday": "6",
+            "year": "2016"
+        },
+        {
+            "day": "09",
+            "month": "04",
+            "weekday": "7",
+            "year": "2016"
+        },
+        {
+            "day": "10",
+            "month": "04",
+            "weekday": "1",
+            "year": "2016"
+        },
+        {
+            "day": "11",
+            "month": "04",
+            "weekday": "2",
+            "year": "2016"
+        },
+        {
+            "day": "12",
+            "month": "04",
+            "weekday": "3",
+            "year": "2016"
+        },
+        {
+            "day": "13",
+            "month": "04",
+            "weekday": "4",
+            "year": "2016"
+        },
+        {
+            "day": "14",
+            "month": "04",
+            "weekday": "5",
+            "year": "2016"
+        },
+        {
+            "day": "15",
+            "month": "04",
+            "weekday": "6",
+            "year": "2016"
+        },
+        {
+            "day": "16",
+            "month": "04",
+            "weekday": "7",
+            "year": "2016"
+        },
+        {
+            "day": "17",
+            "month": "04",
+            "weekday": "1",
+            "year": "2016"
+        },
+        {
+            "day": "18",
+            "month": "04",
+            "weekday": "2",
+            "year": "2016"
+        },
+        {
+            "day": "19",
+            "month": "04",
+            "weekday": "3",
+            "year": "2016"
+        },
+        {
+            "day": "20",
+            "month": "04",
+            "weekday": "4",
+            "year": "2016"
+        },
+        {
+            "day": "21",
+            "month": "04",
+            "weekday": "5",
+            "year": "2016"
+        },
+        {
+            "day": "22",
+            "month": "04",
+            "weekday": "6",
+            "year": "2016"
+        },
+        {
+            "day": "23",
+            "month": "04",
+            "weekday": "7",
+            "year": "2016"
+        },
+        {
+            "day": "24",
+            "month": "04",
+            "weekday": "1",
+            "year": "2016"
+        },
+        {
+            "day": "25",
+            "month": "04",
+            "weekday": "2",
+            "year": "2016"
+        },
+        {
+            "day": "26",
+            "month": "04",
+            "weekday": "3",
+            "year": "2016"
+        },
+        {
+            "day": "27",
+            "month": "04",
+            "weekday": "4",
+            "year": "2016"
+        },
+        {
+            "day": "28",
+            "month": "04",
+            "weekday": "5",
+            "year": "2016"
+        }
+    ],
+    "dateTime": {
+        "day": "1",
+        "deparr": "dep",
+        "hour": "15",
+        "minute": "9",
+        "month": "4",
+        "ttpFrom": "20150901",
+        "ttpTo": "20160831",
+        "year": "2016"
+    },
+    "departureList": [
+        {
+            "area": "0",
+            "countdown": "21",
+            "dateTime": {
+                "day": "1",
+                "hour": "15",
+                "minute": "30",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1625",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10011918",
+                "direction": "Titanic Quarter, Science Park",
+                "directionFrom": "Belfast City Centre, Donegall Square North",
+                "key": "23",
+                "liErgRiProj": {
+                    "direction": "H",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:H:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735641",
+            "y": "124024"
+        },
+        {
+            "area": "0",
+            "countdown": "27",
+            "dateTime": {
+                "day": "1",
+                "hour": "15",
+                "minute": "36",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1626",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10000057",
+                "direction": "Belfast City Centre, Donegall Square North",
+                "directionFrom": "Titanic Quarter, Science Park",
+                "key": "48",
+                "liErgRiProj": {
+                    "direction": "R",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:R:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735637",
+            "y": "124057"
+        },
+        {
+            "area": "0",
+            "countdown": "51",
+            "dateTime": {
+                "day": "1",
+                "hour": "16",
+                "minute": "0",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1625",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10011918",
+                "direction": "Titanic Quarter, Science Park",
+                "directionFrom": "Belfast City Centre, Donegall Square North",
+                "key": "24",
+                "liErgRiProj": {
+                    "direction": "H",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:H:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735641",
+            "y": "124024"
+        },
+        {
+            "area": "0",
+            "countdown": "57",
+            "dateTime": {
+                "day": "1",
+                "hour": "16",
+                "minute": "6",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1626",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10000057",
+                "direction": "Belfast City Centre, Donegall Square North",
+                "directionFrom": "Titanic Quarter, Science Park",
+                "key": "49",
+                "liErgRiProj": {
+                    "direction": "R",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:R:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735637",
+            "y": "124057"
+        },
+        {
+            "area": "0",
+            "countdown": "81",
+            "dateTime": {
+                "day": "1",
+                "hour": "16",
+                "minute": "30",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1625",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10011918",
+                "direction": "Titanic Quarter, Science Park",
+                "directionFrom": "Belfast City Centre, Donegall Square North",
+                "key": "26",
+                "liErgRiProj": {
+                    "direction": "H",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:H:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735641",
+            "y": "124024"
+        },
+        {
+            "area": "0",
+            "countdown": "89",
+            "dateTime": {
+                "day": "1",
+                "hour": "16",
+                "minute": "38",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1626",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10000057",
+                "direction": "Belfast City Centre, Donegall Square North",
+                "directionFrom": "Titanic Quarter, Science Park",
+                "key": "50",
+                "liErgRiProj": {
+                    "direction": "R",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:R:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735637",
+            "y": "124057"
+        },
+        {
+            "area": "0",
+            "countdown": "111",
+            "dateTime": {
+                "day": "1",
+                "hour": "17",
+                "minute": "0",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1625",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10011918",
+                "direction": "Titanic Quarter, Science Park",
+                "directionFrom": "Belfast City Centre, Donegall Square North",
+                "key": "28",
+                "liErgRiProj": {
+                    "direction": "H",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:H:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735641",
+            "y": "124024"
+        },
+        {
+            "area": "0",
+            "countdown": "119",
+            "dateTime": {
+                "day": "1",
+                "hour": "17",
+                "minute": "8",
+                "month": "4",
+                "weekday": "6",
+                "year": "2016"
+            },
+            "mapName": "ITMR",
+            "nameWO": "Science Park",
+            "operator": {
+                "code": "MET",
+                "name": "Metro",
+                "publicCode": ""
+            },
+            "platform": "1626",
+            "platformName": "",
+            "servingLine": {
+                "code": "3",
+                "destID": "10000057",
+                "direction": "Belfast City Centre, Donegall Square North",
+                "directionFrom": "Titanic Quarter, Science Park",
+                "key": "51",
+                "liErgRiProj": {
+                    "direction": "R",
+                    "line": "15026",
+                    "network": "nir",
+                    "project": "mja",
+                    "supplement": "B"
+                },
+                "motType": "5",
+                "name": "Bus",
+                "number": "26B",
+                "realtime": "0",
+                "stateless": "nir:15026:B:R:mja",
+                "symbol": "26B"
+            },
+            "stopID": "10011918",
+            "stopName": "Titanic Quarter, Science Park",
+            "x": "735637",
+            "y": "124057"
+        }
+    ],
+    "dm": {
+        "input": {
+            "input": "Titanic Quarter, Science Park"
+        },
+        "points": {
+            "point": {
+                "anyType": "stop",
+                "best": "0",
+                "infos": null,
+                "name": "Titanic Quarter, Science Park",
+                "object": "Science Park",
+                "quality": "100000",
+                "ref": {
+                    "coords": "735637.00000,124057.00000",
+                    "id": "10011918",
+                    "omc": "31400030",
+                    "place": "Titanic Quarter",
+                    "placeID": "869"
+                },
+                "sort": "2",
+                "stateless": "10011918",
+                "type": "any",
+                "usage": "dm"
+            }
+        }
+    },
+    "option": {
+        "ptOption": {
+            "SOSAvail": "0",
+            "active": "1",
+            "activeCom": "-1",
+            "activeImp": "1",
+            "activeSec": "-1",
+            "assistance": "0",
+            "bike": "0",
+            "changeSpeed": "normal",
+            "excludedMeans": [
+                {
+                    "means": "Train",
+                    "selected": "0",
+                    "value": "0"
+                },
+                {
+                    "means": "Commuter railway",
+                    "selected": "1",
+                    "value": "1"
+                },
+                {
+                    "means": "Subway",
+                    "selected": "1",
+                    "value": "2"
+                },
+                {
+                    "means": "City rail",
+                    "selected": "1",
+                    "value": "3"
+                },
+                {
+                    "means": "Tram",
+                    "selected": "1",
+                    "value": "4"
+                },
+                {
+                    "means": "Bus",
+                    "selected": "0",
+                    "value": "5"
+                },
+                {
+                    "means": "Regional bus",
+                    "selected": "0",
+                    "value": "6"
+                },
+                {
+                    "means": "Coach",
+                    "selected": "1",
+                    "value": "7"
+                },
+                {
+                    "means": "Cable car/Rack railw",
+                    "selected": "1",
+                    "value": "8"
+                },
+                {
+                    "means": "Ferry",
+                    "selected": "1",
+                    "value": "9"
+                },
+                {
+                    "means": "Taxi on demand",
+                    "selected": "1",
+                    "value": "10"
+                },
+                {
+                    "means": "Other",
+                    "selected": "1",
+                    "value": "11"
+                },
+                {
+                    "means": "Airplane",
+                    "selected": "1",
+                    "value": "12"
+                },
+                {
+                    "means": "Train (local)",
+                    "selected": "0",
+                    "value": "13"
+                },
+                {
+                    "means": "Train (intercity)",
+                    "selected": "0",
+                    "value": "14"
+                },
+                {
+                    "means": "Train (intercity wit",
+                    "selected": "0",
+                    "value": "15"
+                },
+                {
+                    "means": "Train (intercity wit",
+                    "selected": "0",
+                    "value": "16"
+                },
+                {
+                    "means": "Rail replacement ser",
+                    "selected": "1",
+                    "value": "17"
+                },
+                {
+                    "means": "Rail shuttle",
+                    "selected": "1",
+                    "value": "18"
+                },
+                {
+                    "means": "Citizen bus",
+                    "selected": "1",
+                    "value": "19"
+                }
+            ],
+            "illumTransfer": "0",
+            "lineRestriction": "400",
+            "lowPlatformVhcl": "0",
+            "maxChanges": "9",
+            "maxTime": "360",
+            "maxWait": "120",
+            "needElevatedPlt": "0",
+            "noCrowded": "0",
+            "noElevators": "0",
+            "noEscalators": "0",
+            "noInsecurePlaces": "0",
+            "noLonelyTransfer": "0",
+            "noSolidStairs": "0",
+            "plane": "0",
+            "privateTransport": "0",
+            "routeType": "LEASTTIME",
+            "useProxFootSearch": "0",
+            "useProxFootSearchDestination": "0",
+            "useProxFootSearchOrigin": "0",
+            "wheelchair": "0"
+        }
+    },
+    "parameters": [
+        {
+            "name": "depOnly",
+            "value": "1"
+        },
+        {
+            "name": "requestID",
+            "value": "0"
+        },
+        {
+            "name": "sessionID",
+            "value": "0"
+        }
+    ],
+    "servingLines": {
+        "lines": [
+            {
+                "index": "5:0",
+                "mode": {
+                    "code": "3",
+                    "desc": "City Centre - Titanic Quarter Belfast Met - Queen's Road",
+                    "destID": "10011918",
+                    "destination": "Titanic Quarter, Science Park",
+                    "diva": {
+                        "attrs": [],
+                        "branch": "15",
+                        "dir": "H",
+                        "line": "15026",
+                        "network": "nir",
+                        "opCode": "MET",
+                        "operator": "Metro",
+                        "project": "mja",
+                        "stateless": "nir:15026:B:H:mja",
+                        "supplement": "B"
+                    },
+                    "name": "Bus 26B",
+                    "number": "26B",
+                    "product": "Bus",
+                    "timetablePeriod": "25/03/2016 - 01/04/2016",
+                    "type": "5"
+                }
+            },
+            {
+                "index": "5:1",
+                "mode": {
+                    "code": "3",
+                    "desc": "Queen's Road - Titanic Quarter Belfast Met - City Centre",
+                    "destID": "10000057",
+                    "destination": "Belfast City Centre, Donegall Square North",
+                    "diva": {
+                        "attrs": [],
+                        "branch": "15",
+                        "dir": "R",
+                        "line": "15026",
+                        "network": "nir",
+                        "opCode": "MET",
+                        "operator": "Metro",
+                        "project": "mja",
+                        "stateless": "nir:15026:B:R:mja",
+                        "supplement": "B"
+                    },
+                    "name": "Bus 26B",
+                    "number": "26B",
+                    "product": "Bus",
+                    "timetablePeriod": "25/03/2016 - 01/04/2016",
+                    "type": "5"
+                }
+            }
+        ]
+    }
+}
+

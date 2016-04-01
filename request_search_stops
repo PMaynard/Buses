@@ -1,0 +1,15 @@
+Python 2.7.11+ (default, Feb 22 2016, 16:38:42) 
+[GCC 5.3.1 20160220] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from urlparse import urlparse
+>>> url = "http://www.translink.co.uk/Templates/Translink/Util/Services/MdvWidgetStopFinderHandler.ashx?language=en&name_sf=titanic&outputFormat=JSON&odvSugMacroNIR=true&stateless=1&useHouseNumberList=1&itdLPxx_usage=origin"
+>>> parse_object = urlparse(url)
+>>> parse_object
+ParseResult(scheme='http', netloc='www.translink.co.uk', path='/Templates/Translink/Util/Services/MdvWidgetStopFinderHandler.ashx', params='', query='language=en&name_sf=titanic&outputFormat=JSON&odvSugMacroNIR=true&stateless=1&useHouseNumberList=1&itdLPxx_usage=origin', fragment='')
+>>> parse_object.query.split('&') 
+['language=en', 'name_sf=titanic', 'outputFormat=JSON', 'odvSugMacroNIR=true', 'stateless=1', 'useHouseNumberList=1', 'itdLPxx_usage=origin']
+>>> q = parse_object.query.split('&')
+>>> q
+['language=en', 'name_sf=titanic', 'outputFormat=JSON', 'odvSugMacroNIR=true', 'stateless=1', 'useHouseNumberList=1', 'itdLPxx_usage=origin']
+>>> 
+
